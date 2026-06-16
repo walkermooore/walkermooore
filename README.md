@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walkermooore&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,docker,linux,java,go&perline=9" />
+  <br>
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square" />
 </div>
 
 ---

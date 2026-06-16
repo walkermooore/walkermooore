@@ -6,16 +6,17 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente, sou acadêmico de **Ciência da Computação** na **UNEMAT** (Universidade do Estado de Mato Grosso) e atuo como **Estagiário de TI** na mesma instituição. Sou um entusiasta de tecnologia com proficiência em **Inglês nível C2**, o que me permite navegar com fluidez em documentações globais e colaborações internacionais.
+Atualmente, sou acadêmico de **Ciência da Computação** na **UNEMAT** e atuo como **Estagiário de TI** na mesma instituição. Sou um entusiasta de tecnologia com proficiência em **Inglês nível C2**, o que amplia meu alcance para documentações técnicas e colaborações globais.
 
-Minha jornada é movida pela busca constante por arquiteturas de alta performance e escalabilidade no **Backend**. Além do desenvolvimento, possuo um foco estratégico em **Cibersegurança**, com profundo interesse em operações de **Blue e Red Team**. Atualmente, dedico parte das minhas pesquisas à **segurança em Infraestrutura como Código (IaC)**, unindo práticas de DevOps com proteção de ativos digitais.
+Minha jornada é movida pela busca constante por arquiteturas de alta performance e escalabilidade, com foco sólido em desenvolvimento **Backend** e **Frontend**. Paralelamente, desenvolvo pesquisas acadêmicas voltadas à **Segurança e Avaliação de Infraestrutura DevOps**, explorando como integrar robustez e proteção no ciclo de entrega contínua.
 
-<p align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/-Ciência%20da%20Computação-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-UNEMAT-darkgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-English%20C2-4433ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-red?style=for-the-badge" />
-</p>
+  <img src="https://img.shields.io/badge/-Backend%20Dev-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Frontend%20Dev-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-DevOps%20Security-red?style=for-the-badge" />
+</div>
 
 ---
 
@@ -47,7 +48,7 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
 
 ### 💻 Principais Projetos
 
-> Abaixo, alguns dos projetos que refletem minha experiência prática em desenvolvimento e segurança.
+> Abaixo, alguns dos projetos que refletem minha experiência prática em desenvolvimento e arquitetura.
 
 *   **🛡️ Imunize-me**
     *   *Descrição:* Plataforma inovadora de gerenciamento de vacinas vencedora do **1º lugar no HackaMT**. Focada em otimização de saúde pública e experiência do usuário.
@@ -79,7 +80,7 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walkermooore&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walkermooore&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---

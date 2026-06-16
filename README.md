@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="40" /> Olá, eu sou o Léo!
+# Léo
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=walkermooore&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
@@ -6,20 +6,20 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> Sobre Mim
+### 🚀 Sobre Mim
 
-🚀 **Desenvolvedor Fullstack & Analista de Sistemas**  
-Apaixonado por resolver problemas complexos através de tecnologia. Atualmente focado em arquiteturas escaláveis e performance.
+Atualmente, sou acadêmico de **Ciência da Computação** na **UNEMAT** (Universidade do Estado de Mato Grosso) e atuo como **Estagiário de TI** na mesma instituição. 
+
+Sou um entusiasta de tecnologia focado no desenvolvimento de soluções eficientes e escaláveis. Minha jornada é movida por desafios técnicos e pela busca constante de conhecimento em arquitetura de software e sistemas de alta performance.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Analista-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Backend-FF2D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Frontend-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Ciência%20da%20Computação-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-UNEMAT-darkgreen?style=for-the-badge" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> Conquistas e Competições
+### 🏆 Conquistas e Competições
 
 <div align="center">
   <h3>🌍 Huawei ICT Competition 2024</h3>
@@ -36,16 +36,16 @@ Apaixonado por resolver problemas complexos através de tecnologia. Atualmente f
 <br>
 
 <div align="center">
-  <h3>🏆 HackAMT 2025</h3>
+  <h3>🎖️ HackaMT 2025</h3>
   <p><i>Plataforma de Gerenciamento de Vacinas</i></p>
-  <img src="assets/hackamt.jpeg" width="90%" style="border-radius: 10px;" alt="HackAMT" />
+  <img src="assets/hackamt.jpeg" width="90%" style="border-radius: 10px;" alt="HackaMT" />
   <br>
   <p>🥇 <b>1º Lugar Geral</b> (Maio de 2025)</p>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tecnologias & Stack
+### 🛠️ Tecnologias & Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,docker,linux" />
@@ -53,14 +53,14 @@ Apaixonado por resolver problemas complexos através de tecnologia. Atualmente f
 
 <br>
 
-**🌱 No radar de estudos (Learning):**
+**🌱 No radar de estudos:**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,go,spring,docker" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" /> Conecte-se comigo
+### 📫 Conecte-se comigo
 
 <p align="left">
   <a href="https://linkedin.com/in/leowalker4408" target="_blank">

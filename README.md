@@ -1,20 +1,20 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,git,docker,linux,java,go&perline=9" />
-  <br>
-  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Ciência%20da%20Computação-blue?style=flat-square" />
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Atualmente, sou acadêmico de **Ciência da Computação** na **UNEMAT** (Universidade do Estado de Mato Grosso) e atuo como **Estagiário de TI** na mesma instituição. 
+Atualmente, sou acadêmico de **Ciência da Computação** na **UNEMAT** (Universidade do Estado de Mato Grosso) e atuo como **Estagiário de TI** na mesma instituição. Sou um entusiasta de tecnologia com proficiência em **Inglês nível C2**, o que me permite navegar com fluidez em documentações globais e colaborações internacionais.
 
-Sou um entusiasta de tecnologia focado no desenvolvimento de soluções eficientes e escaláveis. Minha jornada é movida por desafios técnicos e pela busca constante de conhecimento em arquitetura de software e sistemas de alta performance.
+Minha jornada é movida pela busca constante por arquiteturas de alta performance e escalabilidade no **Backend**. Além do desenvolvimento, possuo um foco estratégico em **Cibersegurança**, com profundo interesse em operações de **Blue e Red Team**. Atualmente, dedico parte das minhas pesquisas à **segurança em Infraestrutura como Código (IaC)**, unindo práticas de DevOps com proteção de ativos digitais.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Ciência%20da%20Computação-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-UNEMAT-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-English%20C2-4433ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-red?style=for-the-badge" />
 </p>
 
 ---
@@ -45,6 +45,22 @@ Sou um entusiasta de tecnologia focado no desenvolvimento de soluções eficient
 
 ---
 
+### 💻 Principais Projetos
+
+> Abaixo, alguns dos projetos que refletem minha experiência prática em desenvolvimento e segurança.
+
+*   **🛡️ Imunize-me**
+    *   *Descrição:* Plataforma inovadora de gerenciamento de vacinas vencedora do **1º lugar no HackaMT**. Focada em otimização de saúde pública e experiência do usuário.
+    *   *Stack:* PHP, Laravel, MySQL.
+    *   *Link:* [github.com/walkermooore/imuniza](https://github.com/walkermooore/imuniza)
+
+*   **🔍 VTracker - Sistema de Gestão de Vulnerabilidades**
+    *   *Descrição:* Solução robusta para identificação, acompanhamento e mitigação de falhas de segurança em sistemas corporativos.
+    *   *Stack:* PHP, Laravel, Livewire.
+    *   *Link:* [github.com/walkermooore/vtracker](https://github.com/walkermooore/vtracker)
+
+---
+
 ### 🛠️ Tecnologias & Stack
 
 <div align="left">
@@ -56,6 +72,14 @@ Sou um entusiasta de tecnologia focado no desenvolvimento de soluções eficient
 **🌱 No radar de estudos:**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,go,spring,docker" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=walkermooore&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---

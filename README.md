@@ -32,6 +32,9 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
     🥉 <b>América Latina:</b> 3º Lugar | 
     🥉 <b>Mundial (China):</b> 3º Lugar
   </p>
+  <p align="justify">
+    Competição global de elite organizada pela Huawei, focada em tecnologias de infraestrutura de ponta. Representei o Brasil na Final Mundial em Shenzhen, na China, após vencer as etapas nacional e regional, demonstrando conhecimentos avançados em administração de sistemas Linux e otimização de bancos de dados.
+  </p>
 </div>
 
 <br>
@@ -42,6 +45,9 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
   <img src="assets/hackamt.jpeg" width="90%" style="border-radius: 10px;" alt="HackaMT" />
   <br>
   <p>🥇 <b>1º Lugar Geral</b> (Maio de 2025)</p>
+  <p align="justify">
+    Hackathon regional intenso focado em resolver problemas públicos reais. Liderei o desenvolvimento técnico da plataforma "Imunize-me", uma solução escalável para o gerenciamento de vacinas que visa modernizar e agilizar o atendimento na saúde pública, garantindo o primeiro lugar geral na competição.
+  </p>
 </div>
 
 ---
@@ -73,14 +79,6 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
 **🌱 No radar de estudos:**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,go,spring,docker" />
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walkermooore&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---

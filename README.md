@@ -1,7 +1,5 @@
-# Léo
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walkermooore&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=walkermooore&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---

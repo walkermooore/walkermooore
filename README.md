@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walkermooore&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walkermooore&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---

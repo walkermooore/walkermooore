@@ -66,6 +66,11 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
     *   *Stack:* PHP, Laravel, Livewire.
     *   *Link:* [github.com/walkermooore/vtracker](https://github.com/walkermooore/vtracker)
 
+*   **🗓️ Servizy - Gestão de Serviços e Agendamentos**
+    *   *Descrição:* Plataforma completa para centralizar a gestão de prestação de serviços, conectando profissionais, empresas e clientes.
+    *   *Stack:* FastAPI, PostgreSQL, SQLAlchemy.
+    *   *Link:* [servizy.tecnobase.com.br](https://servizy.tecnobase.com.br)
+
 ---
 
 ### 🛠️ Tecnologias & Stack

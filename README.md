@@ -83,7 +83,7 @@ Minha jornada é movida pela busca constante por arquiteturas de alta performanc
 
 **🌱 No radar de estudos:**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,spring,docker" />
+  <img src="https://skillicons.dev/icons?i=java,go,spring" />
 </div>
 
 ---

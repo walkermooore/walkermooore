@@ -8,6 +8,17 @@
 Building reliable backend systems, REST APIs and developer tools.
 </p>
 
+<p align="center">
+  <a href="https://leo-walker-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-B8F238?style=for-the-badge&logo=netlify&logoColor=111613" alt="Portfólio de Léo Walker" />
+  </a>
+</p>
+
+<p align="center">
+  Projetos, stack, artigos e conquistas em<br />
+  <a href="https://leo-walker-portfolio.netlify.app"><strong>leo-walker-portfolio.netlify.app</strong></a>
+</p>
+
 ---
 
 ## 👋 Sobre mim

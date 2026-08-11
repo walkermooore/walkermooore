@@ -1,122 +1,93 @@
-<h1 align="center">Léo Walker</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Back-end Developer • Java • Spring Boot</strong>
-</p>
+# Léo Walker
 
-<p align="center">
-Building reliable backend systems, REST APIs and developer tools.
-</p>
+### Desenvolvedor back-end & pesquisador
 
-<p align="center">
-  <a href="https://leo-walker-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-B8F238?style=for-the-badge&logo=netlify&logoColor=111613" alt="Portfólio de Léo Walker" />
-  </a>
-</p>
+Construo software e pesquiso tecnologia — de APIs e produtos digitais a inteligência artificial, automação e segurança.
 
-<p align="center">
-  Projetos, stack, artigos e conquistas em<br />
-  <a href="https://leo-walker-portfolio.netlify.app"><strong>leo-walker-portfolio.netlify.app</strong></a>
-</p>
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-VER_PROJETOS-B8F238?style=for-the-badge&labelColor=111713)](https://leo-walker-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-B8F238?style=for-the-badge&labelColor=111713&logo=linkedin&logoColor=B8F238)](https://www.linkedin.com/in/leowalker4408)
+
+</div>
 
 ---
 
-## 👋 Sobre mim
+```text
+leo@github:~$ whoami
+Desenvolvedor com foco em Java e Spring Boot, criando aplicações completas,
+APIs REST e soluções para problemas reais.
 
-Sou desenvolvedor back-end com foco em **Java** e **Spring Boot**, apaixonado por construir aplicações escaláveis, APIs REST e soluções que resolvem problemas reais.
+leo@github:~$ interests
+Arquitetura de software · IA · automação · segurança · pesquisa aplicada
+```
 
-Atualmente trabalho com desenvolvimento de sistemas utilizando Java, PostgreSQL e React, além de desenvolver projetos pessoais voltados para arquitetura de software, automação e ferramentas para desenvolvedores.
+## Stack
 
----
-
-## 🛠️ Stack
+**Back-end:** Java 21, Spring Boot, Node.js, TypeScript, REST APIs<br />
+**Front-end:** React, TypeScript, Tailwind CSS<br />
+**Dados e mensageria:** PostgreSQL, RabbitMQ, Flyway, Hibernate/JPA<br />
+**Infraestrutura e qualidade:** Docker, Git, Maven, testes e observabilidade
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,docker,git,maven,idea"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,postgres,rabbitmq,docker,git,maven" alt="Java, Spring, Node.js, TypeScript, React, PostgreSQL, RabbitMQ, Docker, Git e Maven" />
 </p>
 
-### Também trabalho com
+## Projetos selecionados
 
-- Spring Security
-- RabbitMQ
-- Flyway
-- Hibernate / JPA
-- REST APIs
-- JWT
-- Prometheus
-- Python
-- FastAPI
-- Node.js
+### [VejaBD — SchemaLens](https://github.com/walkermooore/vejabd)
 
----
+Explorador visual *local-first* de metadados PostgreSQL. Mapeia tabelas, chaves, índices, dependências, impacto transitivo, tamanho e possíveis gargalos sem consultar os dados das aplicações.
 
-# 🚀 Projetos
+`Java` `React` `TypeScript` `PostgreSQL` `Docker`
 
-## 🐾 Pet-GPT *(em desenvolvimento)*
+### [Angel](https://github.com/walkermooore/angel)
 
-Ferramenta para monitoramento de sessões de IA, contexto e consumo em tempo real.
+E-commerce full stack com catálogo, checkout, pedidos, reserva transacional de estoque e painel administrativo. Inclui autenticação com 2FA, outbox, filas, retry e DLQ.
 
-**Stack**
+`Java 21` `Spring Boot` `React 19` `PostgreSQL` `RabbitMQ`
 
-- Java
-- Spring Boot
-- PostgreSQL
-- React
-- Docker
+### [GeoCarioca](https://github.com/walkermooore/geocarioca)
 
----
+Plataforma de aluguel de temporada para o Rio de Janeiro, com pesquisa de imóveis, tarifas dinâmicas, solicitações de reserva e painel seguro para gestão de propriedades.
 
-## 🛒 Angel
+`Java 21` `Spring Boot` `React 19` `TypeScript` `PostgreSQL`
 
-Backend de e-commerce desenvolvido para um projeto comercial, mantido como portfólio técnico.
+### [Imuniza](https://github.com/walkermooore/imuniza)
 
-**Destaques**
+Sistema de gestão e rastreabilidade de vacinas criado no HACKA-MT. Controla o ciclo dos lotes, evita a abertura duplicada de frascos, registra auditoria e gerencia transferências entre unidades.
 
-- Spring Boot
-- Spring Security
-- RabbitMQ
-- PostgreSQL
-- Docker
-- Flyway
-- Prometheus
+`Node.js` `TypeScript` `React 19` `PostgreSQL` `Tailwind CSS`
 
-➡️ https://github.com/walkermooore/angel
+## Conquistas
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/huawei_competition.jpeg" alt="Huawei ICT Competition" width="100%" />
+      <h3>Huawei ICT Competition</h3>
+      <p>3º lugar na América Latina na trilha Computing e participação na final global 2023–2024, em Shenzhen, representando o Brasil e a UNEMAT.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/hackamt.jpeg" alt="Equipe vencedora do HACKA-MT" width="100%" />
+      <h3>1º lugar no HACKA-MT 2025</h3>
+      <p>O Imuniza transformou um problema de saúde pública em uma solução para reduzir o desperdício de vacinas e melhorar a rastreabilidade.</p>
+    </td>
+  </tr>
+</table>
 
-## 🤖 Chatbot AGINOV
+## Pesquisa e artigos
 
-Projeto institucional desenvolvido para a Agência de Inovação da UNEMAT.
+Também escrevo sobre inteligência artificial, governança, privacidade, DevSecOps, saúde digital e cibersegurança. Os cinco trabalhos publicados estão reunidos na seção de artigos do meu portfólio.
 
-➡️ https://github.com/walkermooore/chatbot-aginov
+[**Ler artigos →**](https://leo-walker-portfolio.netlify.app/#artigos)
 
----
+## Contato
 
-# 🏆 Conquistas
-
-🥉 **Huawei ICT Competition**
-
-- 3º lugar na Final Mundial
-- 1º lugar na etapa nacional do Brasil
-
-🥇 **Hacka MT Pantanal Edition**
-
-Projeto vencedor com o **Imunize-me**, plataforma para redução do desperdício de vacinas na rede pública.
+- [LinkedIn — leowalker4408](https://www.linkedin.com/in/leowalker4408)
+- [Portfólio — leo-walker-portfolio.netlify.app](https://leo-walker-portfolio.netlify.app)
+- [GitHub — walkermooore](https://github.com/walkermooore)
 
 ---
 
-# 📫 Contato
-
-<p>
-
-<a href="https://linkedin.com/in/leowalker4408">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:walkermoore4408@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<p align="center"><sub>Software, pesquisa e produtos digitais.</sub></p>

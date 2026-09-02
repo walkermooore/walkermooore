@@ -30,9 +30,6 @@ Sou Engenheiro de Software com foco em back-end, criando aplicações completas,
 
 ### Projetos selecionados
 
-#### [LigaMagic](https://github.com/walkermooore/LigaMagic)
-Portal administrativo responsivo para cartas colecionáveis, desenvolvido sem frameworks com JavaScript Vanilla, HTML5, CSS3, PHP, MySQL e Docker. Inclui autenticação, CRUD, busca, filtros, integração via fetch, upload de imagens, segurança e testes de integração.
-
 #### [MiauAu](https://github.com/walkermooore/MiauAu)
 Plataforma comunitária para monitoramento e cuidado de animais de rua, com aplicativo Android em Kotlin e API em Java com Spring Boot.
 
@@ -70,9 +67,6 @@ I am a Software Engineer focused on back-end development, building complete appl
 - **Infrastructure and quality:** Docker, Git, Maven, testing, and observability
 
 ### Featured projects
-
-#### [LigaMagic](https://github.com/walkermooore/LigaMagic)
-A responsive trading-card administration portal built without frameworks using Vanilla JavaScript, HTML5, CSS3, PHP, MySQL, and Docker. It includes authentication, CRUD, search, filters, fetch integration, image uploads, security controls, and integration tests.
 
 #### [MiauAu](https://github.com/walkermooore/MiauAu)
 A community platform for monitoring and caring for stray animals, with a native Kotlin Android app and a Java/Spring Boot API.

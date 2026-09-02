@@ -24,11 +24,14 @@ Sou Engenheiro de Software com foco em back-end, criando aplicações completas,
 ### Tecnologias
 
 - **Back-end:** Java 21, Spring Boot, PHP, Laravel, Node.js, TypeScript e APIs REST
-- **Front-end:** React, TypeScript e Tailwind CSS
+- **Front-end:** JavaScript Vanilla, HTML5, CSS3, React, TypeScript e Tailwind CSS
 - **Dados e mensageria:** PostgreSQL, RabbitMQ, Flyway e Hibernate/JPA
 - **Infraestrutura e qualidade:** Docker, Git, Maven, testes e observabilidade
 
 ### Projetos selecionados
+
+#### [LigaMagic](https://github.com/walkermooore/LigaMagic)
+Portal administrativo responsivo para cartas colecionáveis, desenvolvido sem frameworks com JavaScript Vanilla, HTML5, CSS3, PHP, MySQL e Docker. Inclui autenticação, CRUD, busca, filtros, integração via fetch, upload de imagens, segurança e testes de integração.
 
 #### [MiauAu](https://github.com/walkermooore/MiauAu)
 Plataforma comunitária para monitoramento e cuidado de animais de rua, com aplicativo Android em Kotlin e API em Java com Spring Boot.
@@ -62,11 +65,14 @@ I am a Software Engineer focused on back-end development, building complete appl
 ### Technologies
 
 - **Back end:** Java 21, Spring Boot, PHP, Laravel, Node.js, TypeScript, and REST APIs
-- **Front end:** React, TypeScript, and Tailwind CSS
+- **Front end:** Vanilla JavaScript, HTML5, CSS3, React, TypeScript, and Tailwind CSS
 - **Data and messaging:** PostgreSQL, RabbitMQ, Flyway, and Hibernate/JPA
 - **Infrastructure and quality:** Docker, Git, Maven, testing, and observability
 
 ### Featured projects
+
+#### [LigaMagic](https://github.com/walkermooore/LigaMagic)
+A responsive trading-card administration portal built without frameworks using Vanilla JavaScript, HTML5, CSS3, PHP, MySQL, and Docker. It includes authentication, CRUD, search, filters, fetch integration, image uploads, security controls, and integration tests.
 
 #### [MiauAu](https://github.com/walkermooore/MiauAu)
 A community platform for monitoring and caring for stray animals, with a native Kotlin Android app and a Java/Spring Boot API.
